@@ -1469,7 +1469,6 @@ For devices with smaller width like mobile phone
 
     .about-header {
         color: whitesmoke;
-
         justify-content: center;
         font-size: 35px;
         font-family: raleway;
@@ -1515,18 +1514,18 @@ For devices with smaller width like mobile phone
     }
 
     .about-img img {
-        width: 280px;
-        height: 220px;
-        padding: 5px;
-        border-radius: 10%;
+        width: 100%;
+        height: auto;
+        /* padding: 5px; */
+        /* border-radius: 10%; */
     }
 
     .about-img {
-        width: 100%;
-        height: 250px;
-        text-align: center;
-        overflow: hidden;
-        border-radius: 10%;
+        /* width: 100%;
+        height: 250px; */
+        /* text-align: center;
+        overflow: hidden; */
+        /* border-radius: 10%; */
     }
 
     .service {
